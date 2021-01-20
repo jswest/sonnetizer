@@ -1,0 +1,3 @@
+node_modules/
+texts/*.txt
+texts/*.json
